@@ -151,7 +151,7 @@ p {
     line-height: 1.8em;
 }
 .about-right {
-    padding-left: 5em;
+    padding-left: 2em;
 }
 .about-right ul {
     border: 3px double #008B8B;
@@ -172,6 +172,12 @@ p {
     font-size: 0.8em;
     margin-right: 6px;
 }
+/*
+.about-right ul li p.space{
+    margin-left: 18px;
+    font-size: 1em;
+}
+*/
 /*--//about--*/
 /*--work--*/
 .work {
@@ -211,7 +217,7 @@ p {
     margin-bottom: .5em;
     border: 1px solid #F7E612;
     display: inline-block;
-    padding: 0 1.2em;
+    padding: 0em 1.2em;
 }
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
@@ -554,6 +560,7 @@ a.read {
     font-size: 1em;
     color: #00a78e;
     border: 2px solid #00a78e;
+    margin-right: 1em;
     /*    text-decoration: none;*/
     border-radius: 1.5em;
     -webkit-border-radius: 1.5em;
@@ -1086,7 +1093,7 @@ background-color: bisque;
     }
     .work-info h5 {
         font-size: 1.2em;
-        padding: 0 1em;
+        padding: 1em 0.8em;
     }
     .work-left2 h5 span.glyphicon {
         margin-left: 3.4em;
@@ -1311,7 +1318,7 @@ background-color: bisque;
         font-size: 2.5em;
     }
     p {
-        font-size: 0.9em;
+        font-size: 1em;
     }
     .work-info h4 {
         font-size: 1em;
@@ -1322,6 +1329,7 @@ background-color: bisque;
     }
     .work-info h5 {
         font-size: 1em;
+        padding: 1em 0.8em;
     }
     .work-left {
         padding: 1em 3em 0 0;
