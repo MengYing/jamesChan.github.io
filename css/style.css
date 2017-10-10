@@ -551,7 +551,6 @@ ul.news li i {
 ul.news li a{
     font-size: 0.9em;
     color: #777;
-    margin-right: 1em;
 }
 ul.news li i{
     color:#333;
@@ -561,7 +560,7 @@ a.read {
     font-size: 1em;
     color: #00a78e;
     border: 2px solid #00a78e;
-    margin-right: 1em;
+    margin-right: 0.5em;
     /*    text-decoration: none;*/
     border-radius: 1.5em;
     -webkit-border-radius: 1.5em;
