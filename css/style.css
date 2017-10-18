@@ -300,6 +300,7 @@ ul.news li:nth-child(4){margin-bottom:0;}
 
 }
 @media(max-width:384px){.portfolio-modal .modal-content h3{margin:0 0 14px 0px;font-size:1.5em;}
+a.read{margin:1em; display: block; text-align: center}
 }
 @media(max-width:375px){.header-right{padding-left:0;}
 .work-left{width:100%;text-align:left;padding:1em 0 0 0;}
@@ -314,6 +315,7 @@ ul.news li:nth-child(4){margin-bottom:0;}
 .address-left:after{right:0;width:0px;}
 .contact-form input[type="submit"]{font-size:0.9em;}
 .news-text{float:right;padding:0.5em 1em 1.5em 1em;}
+a.read{margin:1em; display: block; text-align: center}
 
 }
 @media(max-width:320px){.banner-info{padding:1em 0;}
@@ -332,5 +334,5 @@ h3.title{font-size:2em;}
 .contact-form input[type="text"]{font-size:0.9em;}
 .contact-form textarea{font-size:0.9em;}
 #work, .blog, #services{padding:1.2em 0;}
-a.read{margin:1em; display: block;}
+a.read{margin:1em; display: block; text-align: center}
 }
